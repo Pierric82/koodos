@@ -1,0 +1,6 @@
+react/node_modules
+react/dist
+react/.env
+docker/html
+.vscode/
+react/.eslintrc.js
